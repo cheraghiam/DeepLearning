@@ -207,4 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 #costome add
-/data
+**/data/
+**/data/
+.vscode/
